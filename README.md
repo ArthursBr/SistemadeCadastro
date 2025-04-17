@@ -12,4 +12,4 @@ Desenvolver um sistema para cadastro e consulta de clientes, fornecedores e prod
 - Cadastro e consulta de clientes, fornecedores e produtos  
 - Busca por dados cadastrados  
 - Geração de relatórios  
-- Armazenamento e acesso por arquivos
+- Armazenamento e acesso por arquivos nos formatos `.dat` e `.txt`
